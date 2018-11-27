@@ -506,8 +506,8 @@ pre {
   position: relative;
   width: 100%;
   min-height: 1px;
-  padding-right: 15px;
-  padding-left: 15px; }
+  padding-right: 12px;
+  padding-left: 12px; }
 
 .col {
   -ms-flex-preferred-size: 0;
@@ -7531,12 +7531,12 @@ header {
       text-transform: uppercase;
       color: #fff;
       font-weight: 400;
-      letter-spacing: 5px;
-      padding: 7px;
+      letter-spacing: 3px;
+      padding: 5x;
       display: block;
       text-align: center;
       position: relative;
-      padding-left: 62px; }
+      padding-left: 55px; }
       header .colorlib-navbar-brand .colorlib-logo .logo-img {
         width: 50px;
         height: 50px;
