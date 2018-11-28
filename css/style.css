@@ -7504,7 +7504,7 @@ h1, h2, h3, h4, h5,
       #colorlib-main-nav ul li.active a span {
         color: #2f89fc; }
         #colorlib-main-nav ul li.active a span:before {
-          background: #2f89fc;
+          background: #15b360;
           visibility: visible;
           -webkit-transform: scaleX(1);
           -moz-transform: scaleX(1);
