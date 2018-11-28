@@ -7329,7 +7329,7 @@ body {
     height: 100%;
     z-index: 99;
     max-width: 100%;
-    background-color: #2f89fc;
+    background-color: #15b360;
     -webkit-transition: width .6s ease;
     -o-transition: width .6s ease;
     transition: width .6s ease; }
@@ -7985,7 +7985,7 @@ header {
   position: relative; }
   .services .icon span {
     position: relative;
-    color: #2f89fc;
+    color: #15b360;
     font-size: 40px;
     z-index: 0;
     line-height: 1.5; }
@@ -8245,7 +8245,7 @@ textarea.form-control {
   .ftco-counter .text strong.number {
     font-weight: 400;
     font-size: 180px;
-    color: #2f89fc; }
+    color: #15b360; }
     @media (max-width: 767.98px) {
       .ftco-counter .text strong.number {
         font-size: 80px; } }
